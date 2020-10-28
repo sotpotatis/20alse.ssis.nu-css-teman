@@ -2,7 +2,7 @@
 
 Här finns ett antal CSS-stilar som kan användas med ett tillägg som exempelvis [Stylebot](https://stylebot.dev/) för att ändra utseendet på startsidan.
 
-Ett galleri samt källkoden för att teman finns i mappen "css" ([här](https://git.ssis.nu/20alse/ssis.nu-css-teman/CSS))
+Ett galleri samt källkoden för att teman finns i mappen "css" ([här](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/tree/master/CSS))
 
 # Installera teman
 
@@ -18,7 +18,7 @@ Gå in på hemsidan för [Stylebot](https://stylebot.dev/) och klicka dig rätt 
 
 ### Steg 2: Kopiera innehållet i valfri fil
 
-Hitta ett tema du gillar, och hitta sedan dess fil i mappen "CSS" (klicka [här](https://git.ssis.nu/20alse/ssis.nu-css-teman/CSS) för att komma direkt dit). Kopiera innehållet i filen till ditt urklipp.
+Hitta ett tema du gillar, och hitta sedan dess fil i mappen "CSS" (klicka [här](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/tree/master/CSS) för att komma direkt dit). Kopiera innehållet i filen till ditt urklipp.
 
 ### Steg 3: Skapa en ny stil för https://ssis.nu
 
