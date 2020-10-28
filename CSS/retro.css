@@ -1,0 +1,138 @@
+/* Retrostil för SSIS.nu */
+/* Skapad av 20alse */
+html body {
+  background-color: 	#08226c;
+  color: #FFFFFF;
+  font-family: 'Arial' sans-serif;
+}
+
+div.square {
+  font-weight: 100;
+  font-style: normal;
+  border-style: solid;
+  border-color: #575259;
+  background-color: #adacad;
+  font-family: 'Comic Sans MS', sans-serif;
+  color:#2324d6;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+body div h3 {
+  background-color: #adacad;
+  padding-left: 1%;
+  padding-bottom: 1vh;
+  padding-top: 1vh;
+  border-radius: 10px;
+}
+body div h3:before {
+  content: "\27A9";
+  font-weight: bolder;
+  color: black;
+}
+
+div.container {
+  background-color: grey;
+}
+
+nav.navbar.navbar-default.sthlm-primary {
+  background-color: grey;
+  border: 3px solid black
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus
+.navbar-default .navbar-nav > li,
+.navbar-default .navbar-nav >  li:hover,
+.navbar-default .navbar-nav > li:focus {
+  background-color: #2324d6;
+}
+
+.navbar-default .navbar-toggle.collapsed:focus {
+    background-color: #2324d6;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default a:active,
+.navbar-default a:focus,
+.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #2324d6;
+}
+
+.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #2324d6;
+}
+
+.navbar-default .navbar-header .navbar-toggle.collapsed,
+.navbar-default .navbar-toggle {
+    border-color: #2324d6;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #2324d6;
+}
+i.fa.fa-university:after {
+  content: "HOT";
+  font-size: 20%;
+  color: white;
+  position: absolute;
+  background-color: red;
+  border: 2px solid red;
+  text-decoration: underline;
+  box-shadow: 2px 2px 2px black;
+    font-weight: bold;
+}
+
+i.fab.fa-google:after {
+  content: "HOT";
+  font-size: 20%;
+  color: white;
+  position: absolute;
+  background-color: red;
+  border: 2px solid red;
+  text-decoration: underline;
+  box-shadow: 2px 2px 2px black;
+  font-weight: bold;
+}
+
+div.panel-body {
+  background-color: grey;
+}
+
+div.panel-heading {
+  border-color: black;
+}
+
+ul li a {
+  color: #2324d6;
+  text-decoration: underline
+}
+.form-control {
+  border: 2px solid black;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-color: black
+}
+
+h3.panel-title {
+  color: white;
+}
+/* Tack https://stackoverflow.com/a/39300914/14408632 för denna kod! */
+input.btn.btn-primary {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.16, rgb(207, 207, 207)), color-stop(0.79, rgb(252, 252, 252)));
+  background-image: -moz-linear-gradient(center bottom, rgb(207, 207, 207) 16%, rgb(252, 252, 252) 79%);
+  background-image: linear-gradient(to top, rgb(207, 207, 207) 16%, rgb(252, 252, 252) 79%); 
+  padding: 3px;
+  border: 1px solid #000;
+  color: black;
+  text-decoration: none;
+  border-radius: 0;
+}
