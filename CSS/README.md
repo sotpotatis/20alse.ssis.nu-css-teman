@@ -13,10 +13,14 @@ Hur du installerar teman hittar du [här](https://git.ssis.nu/20alse/ssis.nu-css
 ![Skärmdump för retro-tema](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/raw/master/screenshots/ssis_retro_theme.png)
 Go retro (med måttfullhet). Comic Sans är tillbaka, och SSIS-startsidan får samma känsla som om det var sent 1990-tal.
 
+[Länk](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/blob/master/CSS/retro.css)
+
 # Minimal
 
 ![Skärmdump för minimalt tema](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/raw/master/screenshots/ssis_minimal_theme.png)
 
 Minimalt tema som håller det enkelt.
+
+[Länk](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/blob/master/CSS/minimal.css)
 
 
