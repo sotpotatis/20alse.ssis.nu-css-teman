@@ -1,0 +1,32 @@
+/* "Best web design" 
+Startsidetema för SSIS.nu
+Av 20alse.
+*/
+nav.navbar.navbar-default.sthlm-primary {
+  display: none;
+}
+
+body {
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+div a img {
+  display: none
+}
+
+div.square {
+  border-radius: 10%;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  color: white;
+}
+
+a div h1 {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    color: white;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+    text-align: left;
+    font-weight: bolder;
+}
