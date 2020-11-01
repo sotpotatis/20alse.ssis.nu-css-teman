@@ -1,0 +1,29 @@
+/* Rosa tema till SSIS.nu 
+Skapat av 20alse.
+*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+div a img {
+  display: none;
+}
+body {
+  font-family: 'Fredoka One', sans-serif;
+    color: #CCAAFF;
+}
+
+div.square {
+  background-color: #FFDDFF;
+  color: #CCAAFF;
+  border-radius: 10px;
+}
+.fa, .fas, .fab {
+  color: #FFAAFF;
+}
+
+nav.navbar.navbar-default.sthlm-primary {
+  background-color: #957DAD;
+} 
+a div h1 {
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: #CCBBFF;
+font-size: 200%;
+}
