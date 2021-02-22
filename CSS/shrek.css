@@ -1,0 +1,108 @@
+/* Le Shrek Style
+for SSIS.nu
+-----------
+Made by 20alse, https://20alse.ssis.nu
+
+Inte 100% städad än:(
+*/
+@import url('http://fonts.cdnfonts.com/css/jlr-star-shrek');
+
+div a img {
+  background-image: url("https://utforskasinnet.se/wp-content/uploads/2018/09/Skrikande-Shrek-300x169.jpg");
+}
+
+a div h1::after{
+  font-family: 'JLR Star Shrek';
+  content: "Shrek Style!";
+  color: green;
+  background-color: greenyellow;
+  border:4px solid white;
+  visibility: visible;
+}
+
+body {
+  background-color: green;
+  color: white;
+  
+}
+h1,h3 {
+  font-family: 'JLR Star Shrek';
+  font-weight: bold;
+}
+
+#sthlm-logo {
+  color: white;
+}
+
+nav.navbar.navbar-default.sthlm-primary {
+  background-color: #089922;
+}
+
+div.square {
+  color: green;
+  background-color: greenyellow;
+  border-radius: 10%;
+}
+
+a div h1 {
+  color: white;
+  visibility: hidden;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus
+.navbar-default .navbar-nav > li,
+.navbar-default .navbar-nav >  li:hover,
+.navbar-default .navbar-nav > li:focus {
+  background-color: #088822;
+}
+
+.navbar-default .navbar-toggle.collapsed:focus {
+    background-color:#088822;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default a:active,
+.navbar-default a:focus,
+.navbar-default .navbar-nav > :not(.active) > a:hover {
+  background-color: #088822;
+}
+
+.navbar-default .navbar-header .navbar-toggle.collapsed:hover,
+.navbar-default .navbar-header .navbar-toggle:not(.collapsed) {
+  background-color: #088822;
+}
+
+.navbar-default .navbar-header .navbar-toggle.collapsed,
+.navbar-default .navbar-toggle {
+    border-color: #088822;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+nav.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-header .navbar-toggle.collapsed span.icon-bar {
+    background-color: #088822;
+}
+
+div.panel-body {
+  background-color: #088822;
+}
+
+
+.panel-title {
+  color: black; 
+}
+
+.btn.btn-primary {
+ background-color: green;
+ border: 1px solid white; 
+}
+
+ul li a {
+  color: white;
+}
+
+div.panel-heading {
+  border-color: black;
+}
