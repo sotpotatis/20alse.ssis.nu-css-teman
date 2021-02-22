@@ -24,3 +24,21 @@ Minimalt tema som håller det enkelt.
 [Länk](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/blob/master/CSS/minimal.css)
 
 
+#  Pink Round
+
+![Skärmdump för rosa-och runt tema](https://20alse.ssis.nu/start_page_assets/coming_soon.png)
+
+Rosa och runt tema! 
+
+#  Best Web Design
+
+![Skärmdump för Best Web Design tema](https://20alse.ssis.nu/start_page_assets/coming_soon.png)
+
+Få SSIS startsida i den bästa webbdesignen någonsin. Comic Sans, och regnbågsfärger.
+
+# Shrek!
+
+![Skärmdump för Shrek-tema](https://git.ssis.nu/20alse/ssis.nu-css-teman/-/raw/master/screenshots/ssis_shrek_theme.png)
+
+Vem älskar inte Shrek? Få din startsida i underbar design i sann Shrek-anda.
+
