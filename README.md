@@ -26,7 +26,7 @@ Nu är det dags att klistra in stilkoden i Stylebot. Först måste vi skapa en n
 
 Nu kan du kopiera in koden som du kopierade till urklipp nyss i den stora vackra textrutan som tar upp större delen av sidan.
 
-I URL skriver du bara `ssis.nu` (http:// eller https:// behöver du inte inkludera). Sedan klickar du på **Save** och voilá!
+I URL skriver du bara `https://ssis.nu`. Sedan klickar du på **Save** och voilá!
 
 *Notera: Du behöver troligtvis ladda om sidan för att de visuella ändringarna som temat gör ska visas.*
 
